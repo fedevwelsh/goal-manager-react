@@ -1,3 +1,3 @@
 ### Goal Manager React Tutorial
 
-YouTube link: 
+Vercel link: https://goal-manager-react-teal.vercel.app/
